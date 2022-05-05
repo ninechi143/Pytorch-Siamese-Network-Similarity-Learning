@@ -1,4 +1,4 @@
-# Siamese_Network_Similarity_Learning
+# Siamese-Network Similarity-Learning
 
 This is a private Pytorch practice for the similarity learning with contrastive loss based on the siamese network.
 
